@@ -1,0 +1,7 @@
+<design:component>
+<!-- @Author : Pavan-->
+    <design:attribute name="title"  label="Enter title here"/>
+    <design:attribute name="description"  label="Enter description here"/>
+    <design:attribute name="objectName" label="specify object name" datasource="apex://CustomDynamicPickList"/>
+    
+</design:component>
